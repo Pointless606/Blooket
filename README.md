@@ -19,7 +19,7 @@ Blooket Hack v2.0
 - **View all the changelogs [here](https://github.com/vantr-o/Blooket/blob/main/CHANGELOG.md).**
 
 ## How to Use
-- Follow the video tutorial below, no audio.
+- Follow the tutorial below, no audio.
  
 https://user-images.githubusercontent.com/113489420/197330065-5084e1d9-6127-4b6b-9bd8-3c25f532e047.webm
 
